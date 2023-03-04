@@ -4,7 +4,7 @@
 
 # How to setup?
 - go to `src/config.json`
-- `token`, `id` and` webhook` are required.
+- `token`, `id` and `webhook` are required.
 - Even without Mongo_url
 - Open terminal and type the following codes: `npm run start`
 
